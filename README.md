@@ -14,6 +14,20 @@ GamepLay
 -
 The game play is mainly about moving object, pressing buttons, and using Ract's help .. but it's a puzzle game so I've limited the help by taking away one of the abilities **moving right**, **moving left** or **jumping** 
 
+controls 
+-
+- A, D : moving .
+- S : press and hold while in top of boxes to move them with you.
+- Space : jumping, double jumping.
+- E : reset the level.
+- Sheft : turn on/off child mode.
+- after turning on child mode u have to choose an ability to lose : 
+	- A : you won't be able to go left again.
+	- D : you won't be able to go right again.
+	- Space : you won't be able to jump again.
+	- left ctrl : reset controls.   
+ 
+
 The art
 -
 All the art is done by me with a good looking minimalistic design .
